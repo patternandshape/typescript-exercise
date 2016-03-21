@@ -39,3 +39,26 @@ module ToDoList {
     }
   }
 }
+
+
+
+
+// new typescript way
+
+// class Greeter {
+//   constructor (public message: string) {}
+//   greet() {
+//     return "Hello, " + this.message;
+//   }
+// }
+//
+//
+// // old js way
+//
+// var Greeter = function(message) {
+//   this.message = message;
+// }
+//
+// Greeter.prototype.greet = function() {
+//   return "Hello, " + this.message;
+// }
